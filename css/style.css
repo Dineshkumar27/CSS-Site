@@ -1,0 +1,41 @@
+#topContainer{
+  background-color: 035aa6;
+  color:f1f3f4;
+ padding-top: 100px;
+ position: relative;
+
+  }
+body{
+  margin: 0px;
+  text-align: center;
+  /* font-family: 'Ubuntu', sans-serif; */
+  font-family: 'Merriweather', serif;
+h1{
+  margin:0;
+
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+#middleContainer{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+display: inline-block;
+border: 10px solid;
+}
+#bottomContainer{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border: 10px solid;
+    display: inline-block;
+
+}
+/* hi */
